@@ -1,0 +1,1 @@
+document.writeln("<img src=\'https://cdn-02.g52j7.com:8443/age/640120.jpg\' onclick=\'window.open(\"https://ad6e.vxkgjugv.com/?code=b9Zm4&c=20931\",\"_blank\")\' style=\'cursor: pointer;\' />");
