@@ -1,0 +1,1 @@
+document.writeln("<img src=\'https://picgg.idti.cn/ads/4646sddd.gif\' onclick=\'window.open(\"https://a134.werbjet.com/chan/max1612/AVxV\",\"_blank\")\' style=\'cursor: pointer;width:100%\' />");

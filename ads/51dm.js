@@ -1,1 +1,1 @@
-document.writeln("<img src=\'https://cdn-02.g52j7.com:8443/age/640120.jpg\' onclick=\'window.open(\"https://ad6e.vxkgjugv.com/?code=b9Zm4&c=20931\",\"_blank\")\' style=\'cursor: pointer;\' />");
+document.writeln("<img src=\'https://article.biliimg.com/bfs/article/21ee67b5b3b5098b6030b6bb391f530f99909b83.jpg\' onclick=\'window.open(\"https://ceb.vxkgjugv.com/?code=b9Zm4&c=20931\",\"_blank\")\' style=\'cursor: pointer;width:100%\' />");
